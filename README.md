@@ -75,11 +75,11 @@
 
 - Executar teste, gerando arquivos de log em um diretório específico
     ```
-    robot -d ./logs/ tests/click.robot
+    robot -d ./logs/ tests/NOME-DO-TESTE.robot
     ```
 - Executar teste utilizando tags
     ```
-    robot -d ./logs/ -i long tests/click.robot
+    robot -d ./logs/ -i long tests/NOME-DO-TESTE.robot
     ```
 
 ## Comandos úteis
