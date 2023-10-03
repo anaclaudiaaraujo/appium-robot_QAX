@@ -73,13 +73,13 @@
     ```
 - Abrir emulador
 
-- Executar teste, gerando arquivos de log em um diretório específico
+- Executar teste, gerando os relatórios em um diretório específico
     ```
     robot -d ./logs/ tests/NOME-DO-TESTE.robot
     ```
 - Executar teste utilizando tags
     ```
-    robot -d ./logs/ -i long tests/NOME-DO-TESTE.robot
+    robot -d ./logs/ -i TAG tests/NOME-DO-TESTE.robot
     ```
 
 ## Comandos úteis
