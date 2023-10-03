@@ -1,0 +1,7 @@
+node_modules/
+__MACOSX/
+
+logs/log.html
+logs/output.xml
+logs/report.html
+logs/selenium-screenshot-*.png
